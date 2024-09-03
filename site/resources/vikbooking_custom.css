@@ -1,0 +1,6 @@
+/* This CSS file will be loaded at last. Any CSS customization should be placed here */
+.vbmodhorsearchcheckindiv label, .vbmodhorsearchcheckoutdiv label, .vbmodhorsearchroomsel label, .vbmodhorsearchbookdiv label, .vbmodhscategories {
+color: white !important;
+font-size: 13px !important;
+font-family: open sans;
+}
